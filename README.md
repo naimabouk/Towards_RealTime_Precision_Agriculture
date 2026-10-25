@@ -177,7 +177,7 @@ Towards_RealTime_Precision_Agriculture/
 ## Citation
 
 ```bibtex
-@inproceedings{guessoum2026realtime,
+@inproceedings{,
   title     = {Towards Real-Time Precision Agriculture: A Task-Aware Multi-Modal Decision Framework},
   author    = {Guessoum, Sam and Boukhiar, Naima},
   booktitle = {Proceedings of the 2026 IEEE International Conference on Intelligent Systems
@@ -190,8 +190,8 @@ Towards_RealTime_Precision_Agriculture/
 
 ## Contact
 
-**Naima Boukhiar**, University of Algiers 1 · naima.boukhiar@univ-alger.dz
-**Sam Guessoum**, Worcester Polytechnic Institute · msguessoum@wpi.edu
+Naima Boukhiar, High School of Computer Science ESI · naima.boukhiar@univ-alger.dz
+
 
 ---
 
